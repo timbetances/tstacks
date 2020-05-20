@@ -2,10 +2,13 @@
 stacks that t has
 
 
-add
+add  (git add <filename>)
 
-commit
-
-push
+commit  (git commit -m "(whatever notes you want)"
 
 pull (git pull orgin master)
+
+push (git push origin <branch you want to push to>
+  
+  
+  
