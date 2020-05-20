@@ -7,3 +7,5 @@ add
 commit
 
 push
+
+pull (git pull orgin master)
